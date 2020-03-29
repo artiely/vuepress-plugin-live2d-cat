@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-plugin-live2d-cat",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artiely/vuepress-plugin-live2d-cat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artiely/vuepress-plugin-live2d-cat/issues"
+  },
+  "homepage": "https://github.com/artiely/vuepress-plugin-live2d-cat#readme"
+}
