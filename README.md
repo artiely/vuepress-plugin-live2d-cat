@@ -13,7 +13,12 @@ module.exports = {
   ]
 }
 ```
-
+## component
+`<Cat theme=""/>`
+theme is `dark`or`light`
+```vue
+<Cat :theme="theme" style="position:fixed;left:0;bottom:50px" />
+```
 ## Tip
 
 - This plugin supports `vuepress 1.x`

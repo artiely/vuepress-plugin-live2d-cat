@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-live2d-cat",
-  "version": "0.0.1",
+  "version": "0.1.5",
   "description": "",
   "main": "index.js",
   "scripts": {
