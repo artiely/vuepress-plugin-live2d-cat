@@ -12,7 +12,6 @@
     class="cat-container"
     v-show="isLoaded"
   >
-  {{theme}}
     <canvas
       id="vuepress-cat"
       :width="style.width"
