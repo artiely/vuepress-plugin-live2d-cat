@@ -26,4 +26,5 @@ theme is `dark`or`light`
 - This plugin is adapted from vuepress-plugin-cat
 ## Demo
 
+- https://artiely.gitee.io
 - https://artiely.github.io
